@@ -1,0 +1,6 @@
+target/
+src/main/java/de/tudo/naantg/testproject/test/gen
+src/main/java/de/tudo/naantg/testproject/test/testGen
+.idea
+naantg.iml
+#mgse/src/test/java/de/tudo/cs/ls14/aqua/boardgame/testGen
